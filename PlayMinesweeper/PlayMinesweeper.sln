@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMinesweeper", "PlayMinesweeper\PlayMinesweeper.csproj", "{481824EE-E5F7-4B8D-B4B5-4BD82DE42FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighscoreRESTService", "WCFService\HighscoreRESTService.csproj", "{15998D4C-1EF1-424E-8CA6-9C73660C2D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481824EE-E5F7-4B8D-B4B5-4BD82DE42FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481824EE-E5F7-4B8D-B4B5-4BD82DE42FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481824EE-E5F7-4B8D-B4B5-4BD82DE42FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481824EE-E5F7-4B8D-B4B5-4BD82DE42FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15998D4C-1EF1-424E-8CA6-9C73660C2D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15998D4C-1EF1-424E-8CA6-9C73660C2D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15998D4C-1EF1-424E-8CA6-9C73660C2D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15998D4C-1EF1-424E-8CA6-9C73660C2D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DF22F3-F959-45C1-8684-F4B2F8663E10}
+	EndGlobalSection
+EndGlobal

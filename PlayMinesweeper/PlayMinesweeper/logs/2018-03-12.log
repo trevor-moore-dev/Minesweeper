@@ -1,0 +1,36 @@
+2018-03-12 16:13:26.8800 INFO Entering UserController.LoginUser()
+2018-03-12 16:13:26.9322 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-12 16:13:29.1231 INFO Exiting UserController.LoginUser() with login passed
+2018-03-12 16:17:10.3740 INFO Entering UserController.LoginUser()
+2018-03-12 16:17:10.4249 INFO Parameters are: {"Username":"ghjk","Password":"hjkk"}
+2018-03-12 16:17:10.6454 INFO Exiting UserController.LoginUser() with login failed
+2018-03-12 16:32:43.1319 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:43.1574 INFO Parameters are: {"Username":"ghuji","Password":null}
+2018-03-12 16:32:43.1574 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:46.6382 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:46.6662 INFO Parameters are: {"Username":null,"Password":null}
+2018-03-12 16:32:46.6793 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:51.9466 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:51.9767 INFO Parameters are: {"Username":"t","Password":"s"}
+2018-03-12 16:32:51.9767 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:59.6999 INFO Entering UserController.LoginUser()
+2018-03-12 16:32:59.7400 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-12 16:32:59.7400 INFO Entering UserController.LoginUser()
+2018-03-12 16:33:01.1196 INFO Exiting UserController.LoginUser() with login passed
+2018-03-12 19:51:30.3493 INFO Entering UserController.LoginUser()
+2018-03-12 19:51:30.3897 INFO Parameters are: {"Username":"t","Password":"t"}
+2018-03-12 19:51:37.9228 INFO Entering UserController.LoginUser()
+2018-03-12 19:51:37.9452 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-12 19:51:39.9888 INFO Exiting UserController.LoginUser() with login passed
+2018-03-12 19:51:46.0848 INFO Entering UserController.LoginUser()
+2018-03-12 19:51:46.1034 INFO Parameters are: {"Username":"asdfasdf","Password":"asdf"}
+2018-03-12 19:51:46.1230 INFO Exiting UserController.LoginUser() with login failed
+2018-03-12 19:52:24.4531 INFO Entering UserController.RegisterUser()
+2018-03-12 19:52:24.4692 INFO Parameters are: {"Firstname":"Mark","Lastname":"Reha","Sex":"Male","Age":34,"State":"Arizona","Email":"mark.reha@gcu.edu","Username":"mark","Password":"mark"}
+2018-03-12 19:52:24.5052 INFO Exiting UserController.RegisterUser() with attempt to register duplicate user
+2018-03-12 19:55:27.8541 INFO Entering UserController.RegisterUser()
+2018-03-12 19:55:27.8726 INFO Parameters are: {"Firstname":"William","Lastname":"Moore","Sex":"Male","Age":53,"State":"Arizona","Email":"william.moore@gmail.com","Username":"william","Password":"william"}
+2018-03-12 19:55:27.9338 INFO Exiting UserController.RegisterUser() with register success
+2018-03-12 19:55:32.3093 INFO Entering UserController.LoginUser()
+2018-03-12 19:55:32.3206 INFO Parameters are: {"Username":"william","Password":"william"}
+2018-03-12 19:55:32.3206 INFO Exiting UserController.LoginUser() with login passed

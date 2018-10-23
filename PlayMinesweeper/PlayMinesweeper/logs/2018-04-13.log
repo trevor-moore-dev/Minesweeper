@@ -1,0 +1,22 @@
+2018-04-13 16:17:04.0377 INFO Entering Controller: User:Login
+2018-04-13 16:17:04.1250 INFO Exiting Controller: User:Login
+2018-04-13 16:17:14.4637 INFO Entering Controller: User:LoginUser
+2018-04-13 16:17:14.4637 INFO Entering UserController.LoginUser()
+2018-04-13 16:17:14.4968 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-04-13 16:17:18.6231 INFO Exiting UserController.LoginUser() with login passed
+2018-04-13 16:17:18.6231 INFO Exiting Controller: User:LoginUser
+2018-04-13 16:17:29.0470 INFO Entering Controller: User:Logout
+2018-04-13 16:17:29.0560 INFO Exiting Controller: User:Logout
+2018-04-13 16:17:37.7060 INFO Entering Controller: User:LoginUser
+2018-04-13 16:17:37.7391 INFO Entering UserController.LoginUser()
+2018-04-13 16:17:37.7621 INFO Parameters are: {"Username":"mark","Password":"mark"}
+2018-04-13 16:17:37.8181 INFO Exiting UserController.LoginUser() with login failed
+2018-04-13 16:17:37.8236 INFO Exiting Controller: User:LoginUser
+2018-04-13 16:17:39.0700 INFO Entering Controller: User:Login
+2018-04-13 16:17:39.0901 INFO Exiting Controller: User:Login
+2018-04-13 16:17:42.7605 INFO Entering Controller: User:LoginUser
+2018-04-13 16:17:42.7756 INFO Entering UserController.LoginUser()
+2018-04-13 16:17:42.7756 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-04-13 16:17:42.7976 INFO Exiting UserController.LoginUser() with login passed
+2018-04-13 16:17:42.8187 INFO Exiting Controller: User:LoginUser
+2018-04-13 16:22:56.9301 INFO Test Logging Service index() invoked.

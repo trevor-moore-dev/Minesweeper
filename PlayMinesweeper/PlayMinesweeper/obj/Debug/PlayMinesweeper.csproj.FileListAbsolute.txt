@@ -1,0 +1,140 @@
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\ApplicationInsights.config
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\csc.exe
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\vbc.exe
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\PlayMinesweeper.dll.config
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\PlayMinesweeper.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\PlayMinesweeper.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.Web.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Helpers.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Mvc.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Razor.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Razor.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.Web.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Razor.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Razor.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Helpers.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Mvc.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\obj\Debug\PlayMinesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\obj\Debug\PlayMinesweeper.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\obj\Debug\PlayMinesweeper.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\NLog.config
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\NLog.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\NLog.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\CommonServiceLocator.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.SqlServer.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Abstractions.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Configuration.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Container.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.Configuration.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Mvc.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.RegistrationByConvention.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.ServiceLocation.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\WebActivatorEx.dll
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\CommonServiceLocator.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.SqlServer.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Configuration.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.Configuration.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Mvc.xml
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Trevor\Documents\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.ServiceLocation.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\ApplicationInsights.config
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\csc.exe
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\vbc.exe
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\VBCSCompiler.exe
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\NLog.config
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\PlayMinesweeper.dll.config
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\PlayMinesweeper.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\PlayMinesweeper.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\CommonServiceLocator.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.SqlServer.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.Web.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\NLog.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Helpers.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Mvc.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Razor.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Razor.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Abstractions.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Configuration.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Container.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.Configuration.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Mvc.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.RegistrationByConvention.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.ServiceLocation.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\WebActivatorEx.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\CommonServiceLocator.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\EntityFramework.SqlServer.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.Web.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\NLog.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Configuration.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Interception.Configuration.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.Mvc.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\Unity.ServiceLocation.pdb
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Razor.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Webpages.Razor.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Helpers.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\bin\System.Web.Mvc.xml
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\obj\Debug\PlayMinesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\obj\Debug\PlayMinesweeper.dll
+C:\Users\Trevor\Desktop\Spring 2018\CST247\PlayMinesweeper\PlayMinesweeper\obj\Debug\PlayMinesweeper.pdb

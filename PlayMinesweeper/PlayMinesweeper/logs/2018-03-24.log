@@ -1,0 +1,11 @@
+2018-03-24 17:41:30.5385 INFO Entering UserController.RegisterUser()
+2018-03-24 17:41:30.5875 INFO Parameters are: {"Firstname":"Dan","Lastname":"C","Sex":"Male","Age":19,"State":"AZ","Email":"desertyukon6@gmail.com","Username":"DC","Password":"ageoldfriends19"}
+2018-03-24 17:42:16.3690 INFO Entering UserController.RegisterUser()
+2018-03-24 17:42:16.3782 INFO Parameters are: {"Firstname":"Daniel","Lastname":"Clark","Sex":"Male","Age":19,"State":"Arizona","Email":"desertyukon6@gmail.com","Username":"DC98","Password":"ageoldfriends19"}
+2018-03-24 17:42:18.5639 INFO Exiting UserController.RegisterUser() with register success
+2018-03-24 17:42:30.4771 INFO Entering UserController.LoginUser()
+2018-03-24 17:42:30.4872 INFO Parameters are: {"Username":"DC98","Password":"ageoldfriends19"}
+2018-03-24 17:42:30.4980 INFO Exiting UserController.LoginUser() with login passed
+2018-03-24 17:49:26.6793 INFO Entering UserController.LoginUser()
+2018-03-24 17:49:26.7055 INFO Parameters are: {"Username":"DC98","Password":"ageoldfriends19"}
+2018-03-24 17:49:26.7527 INFO Exiting UserController.LoginUser() with login passed

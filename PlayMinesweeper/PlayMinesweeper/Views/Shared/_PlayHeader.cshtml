@@ -1,0 +1,26 @@
+﻿
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<p class="navbar-brand" target="_blank">Play Minesweeper Online</p>
+			<a href="http://www.gcu.edu" class="navbar-brand" target="_blank">GCU</a>
+		</div>
+		<div class="navbar-collapse collapse">
+			<ul class="nav navbar-nav navbar-right">
+				@Html.ActionLink("Play Again", "PlayAgain", "Game", new { area = "" }, new { @class = "navbar-brand" })
+				@Html.ActionLink("Save Game", "SaveGame", "Game", new { area = "" }, new { @class = "navbar-brand" })
+				<a href="http://minesweeperonline.com/" class="navbar-brand" target="_blank">Minesweeper</a>
+				<a href="https://bitbucket.org/TrevorMoore/cst-247" class="navbar-brand" target="_blank">BitBucket</a>
+				<a href="https://www.linkedin.com/in/trevor-moore-gcu-programming/" class="navbar-brand" target="_blank">Linked In</a>
+
+				<a href="https://app.swaggerhub.com/apis/TrevorGCU/HighscoreService/1.0.0#/" class="navbar-brand" target="_blank">API</a>
+
+				@Html.ActionLink("Logout", "Logout", "Game", new { area = "" }, new { @class = "navbar-brand" })
+			</ul>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,104 @@
+@model PlayMinesweeper.Models.ButtonModel[,]
+
+@{
+	ViewBag.Title = "Play Minesweeper";
+	Layout = "~/Views/Shared/_MyDefaultLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+
+	<div class="form-horizontal">
+
+		<h4>Online Minesweeper</h4>
+
+		<hr />
+
+	</div>
+
+	<div>
+		<!-- Form that will hold Game Board: table of 10 rows, 10 columns, filled with 100 buttons. -->
+		
+		@using (Html.BeginForm("OnButtonClick", "User"))
+		{
+
+		
+		int id = 1;
+
+		<table>
+			<!--loop through the columns-->
+			@for (int i = 0; i < 15; i++)
+			{
+
+				<tr>
+					<!--loop through the rows-->
+					@for (int j = 0; j < 15; j++)
+					{
+
+						<th>
+							<!--<button type="submit" name="mine" value="" style="height: 40px; width: 40px">-->
+
+							@if (Model[i, j].Visited == false)
+							{
+
+								<button type="submit" name="mine" value="@id" style="background-color: #DCDCDC; height: 40px; width: 40px">
+									<div>
+										@Model[i, j].Text
+									</div>
+								</button>
+
+							}
+							else if (Model[i, j].Visited == true)
+							{
+								if (Model[i, j].Live == false)
+								{
+									if (Model[i, j].Neighbors == 0)
+									{
+										<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px">
+											<div>
+												@Model[i, j].Text
+											</div>
+										</button>
+									}
+									else
+									{
+										<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px">
+											<div>
+												@Model[i, j].Neighbors
+											</div>
+										</button>
+									}
+								}
+								else if (Model[i, j].Live == true && Model[i, j].Win == true)
+								{
+									<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px">
+										<div>
+											<img src="~/Images/flag.ico" style="width: 25px; height: 25px;" />
+										</div>
+									</button>
+								}
+								else if (Model[i, j].Live == true && Model[i, j].Win == false)
+								{
+									<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px">
+										<div>
+											<img src="~/Images/mine2.png" style="width: 25px; height: 25px;" />
+										</div>
+									</button>
+								}
+							}
+
+							<!--</button>-->
+						</th>
+						id++;
+
+					}
+
+				</tr>
+
+			}
+
+		</table>
+
+		}
+
+	</div>

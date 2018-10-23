@@ -1,0 +1,68 @@
+﻿@model PlayMinesweeper.Models.ButtonModel[,]
+
+@*
+	Trevor Moore
+	CST-247
+	.NET MVC
+	2/26/2018
+	Reference that I used in order to get the time refreshed in a partial view every second:
+	https://www.codeproject.com/Articles/313500/Partial-View-Auto-Refresh-in-ASP-NET-MVC
+*@
+
+
+@{
+	ViewBag.Title = "Play Minesweeper";
+	Layout = "~/Views/Shared/_PlayLayout.cshtml";
+	AjaxOptions ajaxOptions = new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "minesweeperBoard" };
+}
+
+<!-- script that has function to be used on the div with id "time" for updating partial view every second -->
+<script type="text/javascript">
+
+	$(function()
+	{
+		setInterval("$('#time').load('/Game/Time')", 1000);
+	});
+
+</script>
+
+<!-- Play Minesweeper View -->
+
+<div class="form-horizontal">
+
+	<br />
+	<br />
+	<br />
+	<br />
+
+	<h4>Online Minesweeper</h4>
+	<!-- PARTIAL VIEW IN THE PAGE -->
+	<div id="time">
+		@Html.Partial("Time")
+	</div>
+
+	<hr />
+
+</div>
+
+<div>
+	<!-- Ajax Form that will hold the Partial View MinesweeperBoard: table of 15 rows, 15 columns, filled with 225 buttons. -->
+
+	@using (Ajax.BeginForm("OnClick", "Game", ajaxOptions, new { id = "myform" }))
+	{
+
+			<!-- PARTIAL VIEW IN THE PAGE -->
+		<div id="minesweeperBoard">
+			@Html.Partial("MinesweeperBoard", Model)
+		</div>
+
+	}
+
+
+</div>
+
+<div class="form-horizontal">
+
+	<hr />
+
+</div>

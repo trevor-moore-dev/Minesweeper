@@ -1,0 +1,72 @@
+2018-03-26 22:47:35.9485 INFO Entering UserController.LoginUser()
+2018-03-26 22:47:35.9917 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 22:47:37.0105 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 22:51:12.1563 INFO Entering UserController.LoginUser()
+2018-03-26 22:51:12.1854 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 22:51:12.2656 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 22:54:32.5750 INFO Entering UserController.RegisterUser()
+2018-03-26 22:54:32.6160 INFO Parameters are: {"Firstname":"Steve","Lastname":"Trevor","Sex":"Male","Age":34,"State":"New Mexico","Email":"st@gmail.com","Username":"steve","Password":"steve"}
+2018-03-26 22:54:32.7406 ERROR Exception UserController.RegisterUser()
+2018-03-26 23:02:17.4064 INFO Entering UserController.RegisterUser()
+2018-03-26 23:02:17.4335 INFO Parameters are: {"Firstname":"Scott","Lastname":"Martin","Sex":"Male","Age":19,"State":"Arizona","Email":"scotty@gmail.com","Username":"scott","Password":"scott"}
+2018-03-26 23:02:17.5288 ERROR Exception UserController.RegisterUser()
+2018-03-26 23:05:09.2528 INFO Entering UserController.RegisterUser()
+2018-03-26 23:05:09.2799 INFO Parameters are: {"Firstname":"Jack","Lastname":"Martin","Sex":"Male","Age":32,"State":"Arizona","Email":"jackattack","Username":"jack","Password":"jack"}
+2018-03-26 23:05:09.3704 ERROR Exception UserController.RegisterUser()
+2018-03-26 23:05:23.0681 INFO Entering UserController.LoginUser()
+2018-03-26 23:05:23.0871 INFO Parameters are: {"Username":"jack","Password":"jack"}
+2018-03-26 23:05:23.1062 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:06:13.4391 INFO Entering UserController.LoginUser()
+2018-03-26 23:06:13.4733 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:06:13.5404 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:07:39.7307 INFO Entering UserController.LoginUser()
+2018-03-26 23:07:39.7578 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:07:39.7959 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:10:34.5007 INFO Entering UserController.LoginUser()
+2018-03-26 23:10:34.5268 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:10:34.5659 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:12:12.9962 INFO Entering UserController.LoginUser()
+2018-03-26 23:12:13.0232 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:12:13.0573 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:16:01.0484 INFO Entering UserController.LoginUser()
+2018-03-26 23:16:01.0755 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:16:01.1096 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:17:00.1275 INFO Entering UserController.LoginUser()
+2018-03-26 23:17:00.1546 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:17:00.2176 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:18:53.9562 INFO Entering UserController.LoginUser()
+2018-03-26 23:18:53.9862 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:18:54.0324 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:23:23.4810 INFO Entering UserController.LoginUser()
+2018-03-26 23:23:23.5181 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:23:23.5530 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:27:52.4176 INFO Entering UserController.LoginUser()
+2018-03-26 23:27:52.4477 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:27:52.4848 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:29:07.2955 INFO Entering UserController.LoginUser()
+2018-03-26 23:29:07.3331 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:29:07.3726 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:30:23.1564 INFO Entering UserController.LoginUser()
+2018-03-26 23:30:23.1885 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:30:23.2555 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:32:07.4028 INFO Entering UserController.LoginUser()
+2018-03-26 23:32:07.4288 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:32:07.4578 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:35:05.5831 INFO Entering UserController.LoginUser()
+2018-03-26 23:35:05.6162 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:35:05.6547 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:37:40.6836 INFO Entering UserController.LoginUser()
+2018-03-26 23:37:40.7217 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:37:40.7568 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:38:11.8717 INFO Entering UserController.LoginUser()
+2018-03-26 23:38:11.8717 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:38:11.8908 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:40:34.3886 INFO Entering UserController.LoginUser()
+2018-03-26 23:40:34.4257 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-26 23:40:34.4656 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:53:41.4811 INFO Entering UserController.LoginUser()
+2018-03-26 23:53:41.5152 INFO Parameters are: {"Username":"scott","Password":"scott"}
+2018-03-26 23:53:41.5559 INFO Exiting UserController.LoginUser() with login passed
+2018-03-26 23:53:54.6853 INFO Entering UserController.LoginUser()
+2018-03-26 23:53:54.6853 INFO Parameters are: {"Username":"scott","Password":"scott"}
+2018-03-26 23:53:54.7068 INFO Exiting UserController.LoginUser() with login passed

@@ -1,0 +1,38 @@
+﻿<style>
+
+	html {
+		position: relative;
+		min-height: 100%;
+	}
+
+	.footer {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		height: 60px;
+		width: 100%;
+		overflow: hidden;
+	}
+</style>
+
+<html>
+<head>
+	<title>@ViewBag.Title</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+	<link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+	<script src="~/Scripts/bootstrap.min.js"></script>
+	@RenderSection("head", required: false)
+	<script type="text/javascript" src="@Url.Content("/Scripts/jquery-1.10.2.js")"></script>
+	<script type="text/javascript" src="@Url.Content("/Scripts/jquery.unobtrusive-ajax.js")"></script>
+</head>
+
+<body>
+	@RenderPage("_PlayHeader.cshtml")
+	<div class="container body-content" style="padding-bottom: 80px;">
+		@RenderBody()
+	</div>
+	@RenderPage("_Footer.cshtml")
+</body>
+</html>

@@ -1,0 +1,174 @@
+﻿@*
+	Trevor Moore
+	CST-247
+	.NET MVC
+	2/26/2018
+*@
+
+<!-- id to track the id of each button -->
+@{
+	int id = 1;
+}
+
+<!-- script that has function to be used to load pop up window on win -->
+<script language="javascript">
+
+	function winAlert() {
+		alert("Congratulations! You won!");
+	}
+
+</script>
+
+<style>
+	.one {
+		background-color: #C0C0C0;
+		height: 40px;
+		width: 40px;
+		color: blue;
+	}
+
+	.two {
+		background-color: #C0C0C0;
+		height: 40px;
+		width: 40px;
+		color: #006400;
+	}
+
+	.three {
+		background-color: #C0C0C0;
+		height: 40px;
+		width: 40px;
+		color: red;
+	}
+
+	.other {
+		background-color: #C0C0C0;
+		height: 40px;
+		width: 40px;
+		color: #551A8B;
+	}
+</style>
+
+
+<table>
+	<!--loop through the columns-->
+	@for (int i = 0; i < 15; i++)
+	{
+
+		<tr>
+			<!--loop through the rows-->
+			@for (int j = 0; j < 15; j++)
+			{
+
+				<th>
+					<!--<button type="submit" name="mine" value="" style="height: 40px; width: 40px">-->
+					<!-- Logic to determine what is rendered on button by checking if it is visited, has neighbors, etc. -->
+					@if (Model[i, j].Visited == false)
+					{
+
+						<button type="submit" name="mine" value="@id" style="background-color: #DCDCDC; height: 40px; width: 40px"> 
+						
+							<!-- Display the text of the model on the button (will be empty text) if button is not visited -->
+							<div>
+								@Model[i, j].Text
+							</div>
+						</button>
+
+					}
+					else if (Model[i, j].Visited == true)
+					{
+						if (Model[i, j].Live == false)
+						{
+							if (Model[i, j].Neighbors == 0)
+							{
+								<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px" disabled>
+									<!-- Display the text of the model on the button (will be empty text) if it is visted, not live, and has 0 neighbors -->
+									<div>
+										@Model[i, j].Text
+									</div>
+								</button>
+							}
+							else
+							{
+								if (Model[i, j].Neighbors == 1)
+								{
+									<button class="one" type="submit" name="mine" value="@id" disabled>
+										<!-- Display the neighbors of the model on the button if it is visted, not live, and has more than 0 neighbors -->
+										<div>
+											@Model[i, j].Neighbors
+										</div>
+									</button>
+								}
+
+								if (Model[i, j].Neighbors == 2)
+								{
+									<button class="two" type="submit" name="mine" value="@id" disabled>
+										<!-- Display the neighbors of the model on the button if it is visted, not live, and has more than 0 neighbors -->
+										<div>
+											@Model[i, j].Neighbors
+										</div>
+									</button>
+								}
+
+								if (Model[i, j].Neighbors == 3)
+								{
+									<button class="three" type="submit" name="mine" value="@id" disabled>
+										<!-- Display the neighbors of the model on the button if it is visted, not live, and has more than 0 neighbors -->
+										<div>
+											@Model[i, j].Neighbors
+										</div>
+									</button>
+								}
+
+								if (Model[i, j].Neighbors >= 4)
+								{
+									<button class="other" type="submit" name="mine" value="@id" disabled>
+										<!-- Display the neighbors of the model on the button if it is visted, not live, and has more than 0 neighbors -->
+										<div>
+											@Model[i, j].Neighbors
+										</div>
+									</button>
+								}
+
+
+							}
+						}
+						else if (Model[i, j].Live == true && Model[i, j].Win == true)
+						{
+							<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px" disabled>
+								<!-- Display the flag icon on the button if it is live and win bool is true -->
+								<div>
+									<img src="~/Images/flag.ico" style="width: 25px; height: 25px;" />
+								</div>
+							</button>
+						}
+						else if (Model[i, j].Live == true && Model[i, j].Win == false)
+						{
+							<button type="submit" name="mine" value="@id" style="background-color: #C0C0C0; height: 40px; width: 40px" disabled>
+								<!-- Display the mine png on the button if it is live and win bool is false -->
+								<div>
+									<img src="~/Images/mine5.png" style="width: 22px; height: 22px;" />
+								</div>
+							</button>
+						}
+					}
+
+					<!--</button>-->
+				</th>
+				id++;
+
+			}
+
+		</tr>
+
+		}
+
+</table>
+
+@if (Model[0, 0].Win == true)
+{
+	<script>
+		winAlert();
+	</script>
+}
+

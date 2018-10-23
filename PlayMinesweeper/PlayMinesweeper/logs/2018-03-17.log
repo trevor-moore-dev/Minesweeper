@@ -1,0 +1,3 @@
+2018-03-17 20:37:35.2748 INFO Entering UserController.LoginUser()
+2018-03-17 20:37:35.3201 INFO Parameters are: {"Username":"trev","Password":"trev"}
+2018-03-17 20:37:37.4876 INFO Exiting UserController.LoginUser() with login passed
