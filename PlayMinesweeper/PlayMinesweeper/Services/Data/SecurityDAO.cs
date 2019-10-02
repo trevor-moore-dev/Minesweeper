@@ -16,9 +16,7 @@ namespace PlayMinesweeper.Services.Data
 	public class SecurityDAO
 	{
 		//setup connection string
-		string connectionString = "Server = tcp:playminesweeperserver.database.windows.net,1433;Initial Catalog = PlayMinesweeper_DB; Persist Security Info=False;User ID = trevormoore; Password=Meghan98!; MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout = 30;";
-
-		//"Data Source=(localdb)\\MSSQLLocalDB;initial catalog=MinesweeperDatabase ; Integrated Security=True;";
+		string connectionString = string.Empty;
 
 		//method for logging in
 		public bool findByUser(UserModel user)
